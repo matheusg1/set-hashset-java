@@ -3,6 +3,8 @@
 
 #  Set / HashSet - Java
 
+Exercício do curso "**Java COMPLETO Programação Orientada a Objetos + Projetos**" pela Udemy, com o professor **Nélio Alves**.
+
 > Em um portal de cursos online, cada usuário possui um código único,
 > representado por um número inteiro. Cada instrutor do portal pode ter
 > vários cursos, sendo que um mesmo aluno pode se matricular em quantos
@@ -47,8 +49,6 @@
     35
     13
     Total de alunos 6
-
-Exercício do curso "**Java COMPLETO Programação Orientada a Objetos + Projetos**" pela Udemy, com o professor **Nélio Alves**.
 
 ---
 Ferramentas utilizadas: 
